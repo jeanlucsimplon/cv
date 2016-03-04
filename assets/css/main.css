@@ -9,8 +9,7 @@
 
 .innerg {
   margin: 3em;
-  padding-bottom: 3em;
-	color: white;
+  color: #ffffff;
 }
 
 /* Reset */
@@ -986,8 +985,8 @@ body {
 
 body {
   background-color: #183026;
-  background-image: url("images/overlay.png"), url("../../images/bg.jpg");
-  background-repeat: repeat, no-repeat;
+  background-image: url("images/overlay.png"), url("../../images/tableau.jpg");
+  background-repeat: repeat;
   background-size: auto, cover;
   background-position: top left, center 0;
   background-attachment: fixed, fixed;
@@ -1369,7 +1368,7 @@ input[type="button"].style3:hover, input[type="submit"].style3:hover, input[type
   top: 0;
   width: 50%;
   height: 100%;
-  background: #152E33;
+  background: #866868;
   overflow: hidden;
 }
 .box.style1 .image img {
@@ -1542,13 +1541,13 @@ input[type="button"].style3:hover, input[type="submit"].style3:hover, input[type
   color: #fff;
   text-shadow: 0 0 0.5px rgba(255, 255, 255, 0.25);
   text-align: center;
-  background: #35b88f url("images/banner.svg") bottom center no-repeat;
+  background: #866868 url("images/banner.svg") bottom center no-repeat;
   padding: 5em 0 5em 0;
   margin: 0;
   background-size: 125% auto;
 }
 #banner .button {
-  color: #35b882;
+  color: #866868;
   text-shadow: 0 0 0.5px rgba(53, 184, 130, 0.25);
 }
 #banner header {
@@ -1597,7 +1596,7 @@ input[type="button"].style3:hover, input[type="submit"].style3:hover, input[type
   border-bottom-color: rgba(255, 255, 255, 0.5);
 }
 #footer a:hover {
-  color: #35b88f;
+  color: #866868;
   text-shadow: 0 0 0.5px rgba(69, 200, 159, 0.25);
   border-bottom-color: rgba(53, 184, 143, 0.5);
 }
@@ -1755,8 +1754,8 @@ input[type="button"].style3:hover, input[type="submit"].style3:hover, input[type
   /* Basic */
   body {
     background-color: #203936;
-    background-image: url("images/overlay.png"), url("../../images/bg-alt.jpg");
-    background-repeat: repeat, no-repeat;
+    background-image: url("images/overlay.png"), url("../../images/tableau.jpg");
+    background-repeat: repeat;
     background-size: auto, 100% auto;
     background-position: top left, top center;
     background-attachment: scroll, scroll;
