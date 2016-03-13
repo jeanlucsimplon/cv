@@ -14,6 +14,12 @@
   left: 20px;
   color: #fff;
 }
+.navContact{
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  color: #fff;
+}
 .innerg {
   margin: 3em;
   color: #ffffff;
@@ -1102,7 +1108,7 @@ header {
 header p {
   display: block;
   margin: 0.5em 0 0 0;
-  padding: 0 0 1.5em 0;
+  /*padding: 0 0 1.5em 0;*/
 }
 footer {
   margin-top: 1em;
@@ -1458,7 +1464,8 @@ input[type="button"].style3:hover, input[type="submit"].style3:hover, input[type
 }
 .box.style3 {
   background: #fff;
-  padding: 3em;
+  padding: 2em 3em 2em 3em;
+  /*padding: 3em;*/
 }
 .box.style3 header {
   text-align: center;
