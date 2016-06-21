@@ -6,6 +6,9 @@
 	html5up.net | @n33co
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
+article p {
+  font-size: 0.85em;
+}
 
 .wip {
   position: absolute;
@@ -21,7 +24,7 @@
   color: #fff;
 }
 .innerg {
-  margin: 3em;
+  margin: 2em 3em;
   color: #ffffff;
 }
 .icons p {
@@ -1386,7 +1389,7 @@ input[type="button"].style3:hover, input[type="submit"].style3:hover, input[type
 }
 .box.style1 {
   background: #fff;
-  padding: 3em;
+  padding: 2em 3em;
 }
 .box.style1 .image {
   display: block;
@@ -1411,7 +1414,7 @@ input[type="button"].style3:hover, input[type="submit"].style3:hover, input[type
 }
 .box.style1.right .image img {
   right: 0;
-  padding: 2em 5.5em 3em 5.5em;
+  padding: 2em 6em;
 }
 .box.style1.right .inner {
   margin-left: 50%;
@@ -1433,7 +1436,7 @@ input[type="button"].style3:hover, input[type="submit"].style3:hover, input[type
 .box.style2 header {
   display: inline-block;
   background: #fff;
-  padding: 2em 3em 2em 3em;
+  padding: 2em 3em;
   margin: 0;
 }
 .box.style2 header p {
@@ -1471,7 +1474,7 @@ input[type="button"].style3:hover, input[type="submit"].style3:hover, input[type
 }
 .box.style3 {
   background: #fff;
-  padding: 2em 3em 2em 3em;
+  padding: 2em 3em;
   /*padding: 3em;*/
 }
 .box.style3 header {
